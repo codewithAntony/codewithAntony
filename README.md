@@ -16,7 +16,6 @@ or explaining to my relatives that "no, I cannot fix your printer"
 
 My main tech stack is react, tyypescript and golang.
 
----
 
 ### ⚡ Fun Facts
 - ☕ **Fuel:** Powered by Kericho Gold and 2 AM motivation.
@@ -24,10 +23,8 @@ My main tech stack is react, tyypescript and golang.
 - 💻 **Setup:** Dark mode everything. If it's light mode, it's a bug.
 - 🛣️ **Commute:** I've solved more bugs in Nairobi traffic than in my office.
 
----
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
