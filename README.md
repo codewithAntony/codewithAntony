@@ -14,7 +14,7 @@ or explaining to my relatives that "no, I cannot fix your printer"
 
 ---
 
-My main tech stack is react, tyypescript and golang.
+My main tech stack is react, typescript and golang.
 
 
 ### ⚡ Fun Facts
