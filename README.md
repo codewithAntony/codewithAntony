@@ -12,7 +12,6 @@ I'm likely looking for the best Nyama Choma in town
 
 or explaining to my relatives that "no, I cannot fix your printer"
 
----
 
 My main tech stack is react, typescript and golang.
 
