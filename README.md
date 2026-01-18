@@ -2,7 +2,7 @@
 
 Hey! 
 
-I'm [Antony](https://www.linkedin.com/in/antony-murithi-namu/)) a data and ML literate software engineer based in Kenya.
+I'm [Antony](https://www.linkedin.com/in/antony-murithi-namu/) a data and ML literate software engineer based in Kenya.
 
 
 When I'm not debugging code or wrestling with merge conflicts,
