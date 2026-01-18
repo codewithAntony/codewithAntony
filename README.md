@@ -1,6 +1,6 @@
 
 
-# Jambo! I'm Antony 🇰🇪 👋
+# Hey! I'm Antony 👋
 
 ### Software Engineer | Building solutions, One Cup of Tea at a Time.
 
